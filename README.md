@@ -1,2 +1,2 @@
 # fastapi-projects
-This repo for all project realted to fastapi
+A small fastapi journey
